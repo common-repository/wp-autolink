@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: jia yang\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add New Keyword"
+msgstr "新增关键词"
+
+msgid "Return"
+msgstr "返回"
+
+msgid "Please enter both a keyword and URL"
+msgstr "请输入关键词和URL"
+
+msgid "Keyword"
+msgstr "关键词"
+
+msgid "Link"
+msgstr "链接"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Attributes"
+msgstr "属性"
+
+msgid "No Follow"
+msgstr "No Follow"
+
+msgid "This adds a rel= \"nofollow\" to the link."
+msgstr "增加 rel= \"nofollow\" 属性"
+
+msgid "New Window"
+msgstr "新窗口"
+
+msgid "This adds a target=\"_blank\" to the link, forcing a new browser window on clicking."
+msgstr "增加 target=\"_blank\" 属性，链接在新窗口打开"
+
+msgid "First Match Only"
+msgstr "只匹配第一个"
+
+msgid "Only add links on the first matched."
+msgstr "只在匹配的第一个中增加链接"
+
+msgid "Ignore Case"
+msgstr "忽略大小写"
+
+msgid "Match Whole Word"
+msgstr "匹配整个单词"
+
+msgid "Match whole word only. For language split by \"space\", like English or other Latin languages."
+msgstr "只匹配整个单词，适用于英语或其他拉丁语系"
+
+msgid "A new keyword has been created."
+msgstr "新关键词已添加"
+
+msgid "Updated!"
+msgstr "已更新"
+
+msgid "Deleted!"
+msgstr "已删除"
+
+msgid "Batch Delete"
+msgstr "批量删除"
+
+msgid "Auto Link can automatically add links on keywords when publish post."
+msgstr "Auto Link 可以在发布文章的时候自动添加上关键词链接。"
+
+msgid "Auto links old content"
+msgstr "对已发布内容增加链接"
+
+msgid "Auto Link can also add keyword links all existing contents of your blog."
+msgstr "Auto Link 也可以对已经发布的内容增加关键词链接。"
+
+msgid "This feature use keyword list above-mentioned."
+msgstr "该功能使用上述的关键词列表。"
+
+msgid "Auto links all old content &raquo;"
+msgstr "对所有已发布内容增加链接&raquo;"
+
+msgid "If your browser doesn't start loading the next page automatically click this link:"
+msgstr "如果浏览器没有自动跳转到下个页面，请点击："
+
+msgid "Next content"
+msgstr "下条内容"
+

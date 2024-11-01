@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: jia yang\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " after"
+msgstr "后"
+
+msgid " ago"
+msgstr "前"
+
+msgid " days"
+msgstr "天"
+
+msgid " hours"
+msgstr "小时"
+
+msgid " minutes"
+msgstr "分钟"
+
+msgid " months"
+msgstr "月"
+
+msgid " seconds"
+msgstr "秒"
+
+msgid " weeks"
+msgstr "星期"
+
+msgid " years"
+msgstr "年"
+
+msgid "Add New"
+msgstr "新增"
+
+msgid "Add New Task"
+msgstr "新建任务"
+
+msgid "All articles in the following"
+msgstr "所有文章如下"
+
+msgid "An error occurred"
+msgstr "发生错误"
+
+msgid "Article Content"
+msgstr "文章内容"
+
+msgid "Article Content Filtering"
+msgstr "文章内容过滤"
+
+msgid "Article Content Keywords Replacement"
+msgstr "正文关键词替换"
+
+msgid "Article Content Prefix"
+msgstr "文章正文前缀"
+
+msgid "Article Content Suffix"
+msgstr "文章正文后缀"
+
+msgid "Article Crawl"
+msgstr "文章抓取"
+
+msgid "Article Crawl Settings"
+msgstr "文章抓取设置"
+
+msgid "Article Source Settings"
+msgstr "文章来源设置"
+
+msgid "Article Title"
+msgstr "文章标题"
+
+msgid "Article Title Keywords Replacement"
+msgstr "标题关键词替换"
+
+msgid "Article Title Prefix"
+msgstr "文章标题前缀"
+
+msgid "Article Title Suffix"
+msgstr "文章标题后缀"
+
+msgid "Article URL matching rules"
+msgstr "文章网址匹配规则"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Basic Settings"
+msgstr "基本设置"
+
+msgid "Batch generate"
+msgstr "批量生成"
+
+msgid "Categories"
+msgstr "分类目录"
+
+msgid "Confirm Empty Logs?"
+msgstr "确认清空日志?"
+
+msgid "Crawl The Paginated Content"
+msgstr "抓取正文分页内容"
+
+msgid "Delete the content between the two key words"
+msgstr "删除两个关键词之间的内容"
+
+msgid "Delete the contents of the HTML tag"
+msgstr "是否删除标签内容"
+
+msgid "Deleted!"
+msgstr "已删除!"
+
+msgid ""
+"Did not find the article URL, Please check the [Article Source Settings => "
+"The Article URLs CSS Selector]"
+msgstr "没有找到文章网址, 请检查[文章来源设置 => 文章网址CSS选择器]"
+
+msgid ""
+"Did not find the contents of the article, Please check the [Article Crawl "
+"Settings => The Article Content CSS selector]"
+msgstr "没有找到文章内容, 请检查[文章抓取设置 => 文章内容CSS选择器]"
+
+msgid ""
+"Did not find the title of the article, Please check the [Article Crawl "
+"Settings => The Article Title CSS selector]"
+msgstr "没有找到文章标题, 请检查[文章抓取设置 => 文章标题CSS选择器]"
+
+msgid "Empty Logs"
+msgstr "清空日志"
+
+msgid "Enter the URL of test crawl"
+msgstr "请输入测试抓取的地址"
+
+msgid "Expected next update"
+msgstr "预计下次更新"
+
+msgid "For example"
+msgstr "例如"
+
+msgid "From"
+msgstr "从"
+
+msgid "HTML tag"
+msgstr "HTML 标签"
+
+msgid "HTML tags Filtering"
+msgstr "HTML标签过滤"
+
+msgid "How long Intervals detect whether there is a new article can be updated"
+msgstr "间隔多长时间检测一次是否有新文章可以更新"
+
+msgid "If the article is divided into multiple pages"
+msgstr "如果文章被分成多个页面"
+
+msgid ""
+"If you want to filter out html &lta> tag, only need to fill out &nbsp; “ a ”"
+msgstr "如果需要过滤掉a标签，只需要填写a即可"
+
+msgid "In test only try to open"
+msgstr "测试时只尝试打开"
+
+msgid "Keyword"
+msgstr "关键词"
+
+msgid ""
+"Keyword 2 can be empty, which means that delete everything after the keyword "
+"1"
+msgstr "关键词2可以为空，表示过滤掉关键词1之后的所有内容"
+
+msgid "Last updated"
+msgstr "上次更新"
+
+msgid "Log"
+msgstr "日志"
+
+msgid "Manually specify"
+msgstr "手工指定"
+
+msgid "Minute"
+msgstr "分钟"
+
+msgid "Must select to the HTML &lta> tag"
+msgstr "必须选择 HTML &lta> 标签"
+
+msgid "Prefix / Suffix"
+msgstr "前缀 / 后缀"
+
+msgid "Recently updated articles"
+msgstr "最近更新文章"
+
+msgid "Replace With"
+msgstr "替换为"
+
+msgid "Return"
+msgstr "返回"
+
+msgid "Setting"
+msgstr "设置"
+
+msgid "Task"
+msgstr "任务"
+
+msgid "Task Name"
+msgstr "任务名称"
+
+msgid "Test"
+msgstr "测试"
+
+msgid "Test Fetch"
+msgstr "测试抓取"
+
+msgid "The Article Content CSS selector"
+msgstr "文章内容CSS选择器"
+
+msgid "The Article List URL"
+msgstr "文章列表网址"
+
+msgid "The Article Pagination URLs CSS selector"
+msgstr "文章分页链接CSS选择器"
+
+msgid "The Article Title CSS selector"
+msgstr "文章标题CSS选择器"
+
+msgid "The Article URLs CSS Selector"
+msgstr "文章网址CSS选择器"
+
+msgid "The URL of Article List"
+msgstr "文章列表网址"
+
+msgid "To"
+msgstr "到"
+
+msgid "URLs of Article"
+msgstr "个文章网址"
+
+msgid "URLs of Article List"
+msgstr "个文章列表网址"
+
+msgid "Unable to open URL"
+msgstr "无法打开网址"
+
+msgid "Update All"
+msgstr "更新全部"
+
+msgid "Update Interval"
+msgstr "更新时间间隔"
+
+msgid "Update Now"
+msgstr "现在更新"
+
+msgid "Updated Articles"
+msgstr "已更新文章"
+
+msgid "Updated!"
+msgstr "已更新!"
+
+msgid "Use the same pagination when published"
+msgstr "当发表时也分页"
+
+msgid "View all tasks"
+msgstr "查看所有任务"
+
+msgid "You can add multiple URLs, each URL begin at a new line"
+msgstr "可以添加多个网址，每个网址以新行开始"
+
+msgid "an error occurs, please check the log information"
+msgstr "发生错误, 请查看日志信息"
+
+msgid "articles"
+msgstr "篇文章"
+
+msgid "does not detect a new article"
+msgstr "没有检测到有新文章"
+
+msgid "items permanently deleted."
+msgstr "个项目已被永久删除。"
+
+msgid "updated"
+msgstr "更新了"
